@@ -1,7 +1,6 @@
 - 👋 Hola soy  @chzgustavo
-- 👀 Me interesa la cultura DevOps.
-- 🌱 Actualmente estoy aprendiendo Docker, Kubernetes,  AWS, CI/CD.
-- 💞️ Estoy buscando colaborar en alguna organizacion.
+- 💞️ Me gusta la cultura DevOps.
+- 🌱 Continuamente aprendiendo Docker, Kubernetes,  AWS, CI/CD.
 - 📫 Puedes contactarme:
      - email: g.choquevilca@gmail.com
      - cel: +54 351 5217500
